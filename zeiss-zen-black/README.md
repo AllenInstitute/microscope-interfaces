@@ -1,6 +1,6 @@
 ## Zeiss Zen Black interfaces
 
-_Some info about what this folder contains_
+_This folder contains the communication layer for Zen Black Software for LSM 880 systems._
 
 ### Scripts
 1. `connectZenBlack.py` - Allen Institute for Cell Science
