@@ -1,6 +1,6 @@
 ## Zeiss Zen Blue interfaces
 
-_Some info about what this folder contains_
+_This folder contains the communication layer to connect to Zen Blue software for Zeiss Spinning Disk systems._
 
 ### Scripts
 1. `connectZenBlue.py` - Allen Institute for Cell Science
